@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Telegram Badge](https://img.shields.io/twitter/url?color=blue&label=%40Ukrainian_panda&logo=telegram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ft.me%2FUkrainian_panda)](https://t.me/Ukrainian_panda)
+[![Gmail Badge](https://img.shields.io/twitter/url?color=red&label=Sheludko%20Vira&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmail.google.com%2F)](mailto:sheludkovira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=blue&label=Vira%20Sheludko&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvira-sheludko-phd-15929523a%2F)](https://www.linkedin.com/in/vira-sheludko-phd-15929523a/)
+

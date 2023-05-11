@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ##### My name is Vira Sheludko and I am a Frontend Developer with a background in Philology. I hold a PhD in Ukrainian Language and have a passion for leveraging my technical skills to create engaging web experiences
 
-[![Telegram Badge](https://img.shields.io/twitter/url?color=blue&label=%40Ukrainian_panda&logo=telegram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ft.me%2FUkrainian_panda)](https://t.me/Ukrainian_panda)
-[![Gmail Badge](https://img.shields.io/twitter/url?color=red&label=Sheludko%20Vira&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmail.google.com%2F)](mailto:sheludkovira@gmail.com)
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=blue&label=Vira%20Sheludko&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvira-sheludko-phd-15929523a%2F)](https://www.linkedin.com/in/vira-sheludko-phd-15929523a/)
+[![Gmail Badge](https://img.shields.io/badge/-sheludkovira@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:sheludkovira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vira_Sheludko-0077B5?style=for-the-badge&logo=linkedin&logoColor=F5F5F5)](https://www.linkedin.com/in/vira-sheludko-phd-15929523a/)
+[![Telegram Badge](https://img.shields.io/badge/-@Ukrainian__panda-0088CC?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/Ukrainian_panda)
+[![Instagram Badge](https://img.shields.io/badge/-@ukrainian.panda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ukrainian.panda/)
+
 

@@ -1,4 +1,4 @@
-### Hello World, I`m Vira Sheludko  👋
+### Hello World, I`m Vira  👋
 
 <!--
 **Ukrainiane-panda/Ukrainiane-panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## My name is Vira Sheludko and I am a Frontend Developer with a background in Philology. I hold a PhD in Ukrainian Language and have a passion for leveraging my technical skills to create engaging web experiences
 
 [![Telegram Badge](https://img.shields.io/twitter/url?color=blue&label=%40Ukrainian_panda&logo=telegram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ft.me%2FUkrainian_panda)](https://t.me/Ukrainian_panda)
 [![Gmail Badge](https://img.shields.io/twitter/url?color=red&label=Sheludko%20Vira&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmail.google.com%2F)](mailto:sheludkovira@gmail.com)

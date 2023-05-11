@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff" style="height: 30px;" alt="TS">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" style="height: 30px;" alt="React">
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff" style="height: 30px;" alt="Redux">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" style="height: 30px;" alt="Bootstrap">
 </div>
 
 <div>

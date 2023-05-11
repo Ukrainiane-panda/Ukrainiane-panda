@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" style="height: 30px;" alt="Bootstrap">
 </div>
 
-<div>
-  <h2>My projects</h2>
-</div>
+ <h2>My projects</h2>
+[DEMO LINK to Miami project](https://ukrainiane-panda.github.io/layout_miami/)
+[DEMO LINK to Dia project](https://ukrainiane-panda.github.io/layout_dia/)
+[DEMO LINK to 2048 Game project](https://ukrainiane-panda.github.io/js_2048_game/)
+

@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 <p>
   <h2>My projects</h2>
-  <a href="">DEMO LINK to Miami project</a><br>
+  <a href="https://ukrainiane-panda.github.io/Landing-page-MyBike/">DEMO LINK to MyBike project</a><br>
   <a href="https://ukrainiane-panda.github.io/layout_dia/">DEMO LINK to Dia project</a><br>
   <a href="https://ukrainiane-panda.github.io/2048_game/">DEMO LINK to 2048 Game project</a>
 </p>

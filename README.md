@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <a href="https://ukrainiane-panda.github.io/Landing-page-MyBike/">DEMO LINK to UrbanRide project</a><br>
   <a href="https://ukrainiane-panda.github.io/Dia-landing-page/">DEMO LINK to Strategic Air Agency project</a><br>
   <a href="https://ukrainiane-panda.github.io/2048_game/">DEMO LINK to Number Puzzle Merge project</a> <br> 
-  <a href="https://ukrainiane-panda.github.io/TodoApp__-react-/">DEMO LINK to React project - Todo app</a>
+  <a href="https://ukrainiane-panda.github.io/TodoApp__-react-/">DEMO LINK to React project - Todo app</a><br>
   <a href="https://emova.org.ua/">DEMO LINK - EMOVA project</a>
 </p>
 

@@ -34,7 +34,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff" style="height: 30px;" alt="Redux">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" style="height: 30px;" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Bulma-7952B3?style=for-the-badge&logo=bulma&logoColor=ffffff" style="height: 30px;" alt="Bulma">
-  <img src="https://img.shields.io/badge/-Bulma-7952B3?style=for-the-badge&logo=bulma&logoColor=ffffff" style="height: 30px; background-color: hsl(171deg,100%,41%); color: #ffffff;" alt="Bulma">
+  <img src="https://img.shields.io/badge/-Bulma-7952B3?style=for-the-badge&logo=bulma&logoColor=ffffff&color=hsl(171,100%,41%)" alt="Bulma">
+  <img src="https://img.shields.io/badge/-Bulma-7952B3?style=for-the-badge&logo=bulma&logoColor=ffffff&color=hsl(171,100%,41%)" alt="Bulma">
 </div>
 <p>
   <h2>My projects</h2>

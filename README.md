@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" style="height: 30px;" alt="React">
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff" style="height: 30px;" alt="Redux">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" style="height: 30px;" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Bulma-7952B3?style=for-the-badge&logo=bulma&logoColor=ffffff" style="height: 30px;" alt="Bulma">
 </div>
 <p>
   <h2>My projects</h2>
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
   <a href="https://ukrainiane-panda.github.io/Dia-landing-page/">DEMO LINK to Strategic Air Agency project</a><br>
   <a href="https://ukrainiane-panda.github.io/2048_game/">DEMO LINK to Number Puzzle Merge project</a> <br> 
   <a href="https://ukrainiane-panda.github.io/TodoApp__-react-/">DEMO LINK to React project - Todo app</a><br>
+  <a href="https://ukrainiane-panda.github.io/ReactiveDevices/">DEMO LINK to React project - Reactive Devices</a><br>
   <a href="https://emova.org.ua/">DEMO LINK to EMOVA project</a>
 </p>
 

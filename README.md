@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="https://ukrainiane-panda.github.io/2048_game/">DEMO LINK to Number Puzzle Merge project</a> <br> 
   <a href="https://ukrainiane-panda.github.io/TodoApp__-react-/">DEMO LINK to React project - Todo app</a><br>
   <a href="https://ukrainiane-panda.github.io/ReactiveDevices/">DEMO LINK to React project - Reactive Devices</a><br>
-  <a href="https://emova.org.ua/">DEMO LINK to EMOVA project</a>
+  <a href="https://emova.org.ua/">DEMO LINK to EMOVA project</a><br>
   <a href="https://kultnastup.org/">DEMO LINK to React Project - "КультНаступ" (Forum)</a>
 </p>
 

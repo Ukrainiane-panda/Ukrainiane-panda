@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <a href="https://ukrainiane-panda.github.io/ReactiveDevices/">DEMO LINK to React project - Reactive Devices</a><br>
   <a href="https://emova.org.ua/">DEMO LINK to EMOVA project</a><br>
   <a href="https://kultnastup.org/">DEMO LINK to React Project - "КультНаступ" (Forum)</a>
+  <a href="https://yourtask.pp.ua/">DEMO LINK to React Project - DoTaskly</a>
 </p>
 
 
